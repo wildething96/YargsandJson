@@ -1,0 +1,23 @@
+{
+  "name": "yargs-and-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wildething96/YargsandJson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wildething96/YargsandJson/issues"
+  },
+  "homepage": "https://github.com/wildething96/YargsandJson#readme",
+  "dependencies": {
+    "yargs": "^17.3.1"
+  }
+}
